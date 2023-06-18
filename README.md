@@ -1,5 +1,3 @@
-### Nicolas Arthur,
-
 - 🧰 Busco experiências...
 - 💻 Estudando desenvolvimento web e análise de dados.
 - 📒 Aluno da Hashtag Treinamentos
